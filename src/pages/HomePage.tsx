@@ -1,5 +1,7 @@
+import { CardList } from '../components/CardList';
+
 const HomePage = () => {
-  return <div>Home page</div>;
+  return <CardList />;
 };
 
 export default HomePage;

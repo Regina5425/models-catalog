@@ -4,7 +4,7 @@
     "name": "Ноутбук UltraBook Pro",
     "price": 79990,
     "description": "Мощный и лёгкий ноутбук для работы и учебы.\nОснащён быстрым SSD и процессором нового поколения.\nИдеален для путешествий благодаря тонкому корпусу.\nАвтономность до 12 часов без подзарядки.",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800"
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800"
   },
   {
     "id": 2,
@@ -18,55 +18,55 @@
     "name": "Беспроводные наушники AirBeats",
     "price": 12990,
     "description": "Качественный звук и шумоподавление.\nДо 24 часов работы от батареи.\nУдобный футляр для зарядки.\nСовместимость с iOS и Android.",
-    "image": "https://images.unsplash.com/photo-1518444021298-8faa65152d8c?w=800"
+    "image": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800"
   },
   {
     "id": 4,
     "name": "Игровая консоль PlayBox",
     "price": 54990,
     "description": "Мощная консоль нового поколения.\nПоддержка 4K HDR графики.\nБольшая библиотека эксклюзивных игр.\nСовместимость с VR-гарнитурами.",
-    "image": "https://images.unsplash.com/photo-1606813907299-ef2df0cbe8d3?w=800"
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800"
   },
   {
     "id": 5,
     "name": "Смарт-часы ActiveFit",
     "price": 15990,
     "description": "Стильные и лёгкие смарт-часы.\nОтслеживание пульса, сна и активности.\nВлагозащита и GPS-навигация.\nПоддержка уведомлений со смартфона.",
-    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=800"
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800"
   },
   {
     "id": 6,
     "name": "Планшет Tab Master",
     "price": 34990,
     "description": "Большой экран для фильмов и игр.\nМощный процессор и много памяти.\nПоддержка стилуса для рисования.\nАвтономная работа до 10 часов.",
-    "image": "https://images.unsplash.com/photo-1585060544812-7d1a27b59bea?w=800"
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800"
   },
   {
     "id": 7,
     "name": "Фотоаппарат PixelShot",
     "price": 62990,
     "description": "Компактная камера с высоким качеством фото.\nМощный зум и стабилизация изображения.\nПоддержка записи 4K видео.\nПодходит как для новичков, так и профи.",
-    "image": "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=800"
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800"
   },
   {
     "id": 8,
     "name": "Игровая клавиатура MechaKey",
     "price": 7990,
     "description": "Механическая клавиатура с RGB подсветкой.\nПрочные переключатели и эргономика.\nПрограммируемые кнопки для игр.\nПодходит для киберспорта и работы.",
-    "image": "https://images.unsplash.com/photo-1587202372775-98907cf6c73d?w=800"
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=800"
   },
   {
     "id": 9,
     "name": "Кофемашина Barista Pro",
     "price": 25990,
     "description": "Автоматическая кофемашина с множеством режимов.\nГотовит эспрессо, латте и капучино.\nСъёмный контейнер для молока.\nПростая очистка и стильный дизайн.",
-    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800"
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800"
   },
   {
     "id": 10,
     "name": "Электросамокат CityRide",
     "price": 38990,
     "description": "Лёгкий и быстрый транспорт для города.\nЗапас хода до 30 км.\nСкладная конструкция для хранения.\nВстроенная подсветка и дисплей.",
-    "image": "https://images.unsplash.com/photo-1595433562696-a8f1a8d9f5c0?w=800"
+    "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=800"
   }
 ]

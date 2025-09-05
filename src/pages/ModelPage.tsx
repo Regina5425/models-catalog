@@ -1,5 +1,7 @@
+import { Model } from '../components/Model';
+
 const ModelPage = () => {
-  return <div>Single model page</div>;
+  return <Model />;
 };
 
 export default ModelPage;
