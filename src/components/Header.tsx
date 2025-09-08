@@ -19,10 +19,19 @@ export default function Header() {
           </Link>
         </div>
         <nav className='flex gap-3 justify-between items-center'>
-          <label className='inline-flex items-center cursor-pointer'>
-            <input type='checkbox' value='' className='sr-only peer' onChange={toggleTheme} />
-            <div className="relative w-11 h-6 bg-gray-300 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-light-border after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-light-card after:border-light-border after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-light-accent dark:peer-checked:bg-dark-accent" />
-          </label>
+          <button
+            onClick={toggleTheme}
+            className='flex items-center gap-2 group'
+            aria-label={isDark ? 'Переключить на светлую тему' : 'Переключить на темную тему'}
+          >
+            <div className='relative w-12 h-6 bg-light-secondary rounded-full transition-colors duration-300'>
+              <div
+                className={`absolute top-0.5 w-5 h-5 bg-white-60 rounded-full transition-transform duration-300 flex items-center justify-center shadow-md group-hover:scale-110 ${isDark ? 'translate-x-6' : 'translate-x-1'}`}
+              >
+                <span className='text-xs leading-none'>{isDark ? '🌙' : '🌞'}</span>
+              </div>
+            </div>
+          </button>
           <Link
             to='/'
             className=' hidden md:block text-dark-primary hover:text-light-accent transition-all ease-in-out duration-200'
