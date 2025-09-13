@@ -32,18 +32,6 @@ export default function Header() {
               </div>
             </div>
           </button>
-          <Link
-            to='/'
-            className=' hidden md:block text-dark-primary hover:text-light-accent transition-all ease-in-out duration-200'
-          >
-            Главная
-          </Link>
-          <Link
-            to='/about'
-            className='text-dark-primary hover:text-light-accent transition-all ease-in-out duration-200'
-          >
-            О нас
-          </Link>
         </nav>
       </div>
     </header>

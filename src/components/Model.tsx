@@ -15,15 +15,19 @@ export const Model = () => {
   });
 
   return (
-    <div className='flex flex-col items-center justify-between gap-5 mt-14 mb-11 xl:max-w-[500px]'>
-      <div className='flex justify-between items-center h-[44px] w-full'>
-        <Link to='/' className='md:hidden'>
-          <img src={isDark ? ArrowDark : ArrowLight} alt='back' />
-        </Link>
-        <p className='text-light-primary text-lg font-bold dark:text-dark-primary'>{model?.name}</p>
-      </div>
-      <img className='rounded-[20px] w-full max-h-[300px]' src={model?.image} alt='model info' />
-      <p className='text-light-primary text-xl leading-6 font-medium dark:text-dark-primary'>{model?.description}</p>
+    <div className='flex flex-col justify-between gap-5 mt-14 mb-11 xl:max-w-[500px]'>
+      <Link to='/' className='md:hidden'>
+        <img
+          src={isDark ? ArrowDark : ArrowLight}
+          alt='back'
+          className='flex items-center justify-center w-[30px] h-[30px]'
+        />
+      </Link>
+      <img className='rounded-[20px] w-full max-h-[300px] md:w-[450px]' src={model?.image} alt='model info' />
+      <p className='text-light-primary text-xl font-bold dark:text-dark-primary'>{model?.name}</p>
+      <p className='text-light-primary text-lg leading-6 font-medium md:text-xl dark:text-dark-primary'>
+        {model?.description}
+      </p>
       <p className='text-light-accent text-2xl font-bold self-start dark:text-dark-accent'>{`${model?.price.toLocaleString()} ₽`}</p>
     </div>
   );
