@@ -4,167 +4,167 @@
     "name": "Jaguar XE SV Project 8",
     "price": 2500,
     "description": "Год постройки 2017. Dark red metall. IXO",
-    "image": "/public/assets/img/1.png"
+    "image": "/assets/img/1.png"
   },
   {
     "id": 2,
     "name": "Scion FR-S Speedster Concept, 1:43",
     "price": 2500,
     "description": "PremiumX",
-    "image": "/public/assets/img/2.jpeg"
+    "image": "/assets/img/2.jpeg"
   },
   {
     "id": 3,
     "name": "VW Bus \"Samba\" red\/crème 430 052302, 1:43",
     "price": 4000,
     "description": "Minichamps",
-    "image": "/public/assets/img/3.jpeg"
+    "image": "/assets/img/3.jpeg"
   },
   {
     "id": 4,
     "name": "Tesla Model S, 1:43",
     "price": 3000,
     "description": "Modellino auto Revozport - Formula E Safety Car",
-    "image": "/public/assets/img/4.jpeg"
+    "image": "/assets/img/4.jpeg"
   },
   {
     "id": 5,
     "name": "Mercedes Benz 1113, 1:43",
     "price": 3800,
     "description": "TRU009, IXO",
-    "image": "/public/assets/img/5.jpeg"
+    "image": "/assets/img/5.jpeg"
   },
   {
     "id": 6,
     "name": "Bedford TJ 6S 1965, 1:43",
     "price": 3800,
     "description": "TRU012, IXO",
-    "image": "/public/assets/img/6.jpeg"
+    "image": "/assets/img/6.jpeg"
   },
   {
     "id": 7,
     "name": "Berliet GLR 1960, 1:43",
     "price": 3800,
     "description": "TRU001, IXO",
-    "image": "/public/assets/img/7.jpeg"
+    "image": "/assets/img/7.jpeg"
   },
   {
     "id": 8,
     "name": "Сборная модель МАЗ-200, 1:43",
     "price": 2700,
     "description": "Автомобиль в деталях",
-    "image": "/public/assets/img/8.jpeg"
+    "image": "/assets/img/8.jpeg"
   },
   {
     "id": 9,
     "name": "Mercedes-Benz L3500 Pritschenwagen 1950 \"Schenker\" 439, 1:43",
     "price": 4800,
     "description": "350028, Minichamps",
-    "image": "/public/assets/img/9.jpeg"
+    "image": "/assets/img/9.jpeg"
   },
   {
     "id": 10,
     "name": "Porsche 911 \"Rohrl x911\", 1:43",
     "price": 4000,
     "description": "45 091 2000, Schuco",
-    "image": "/public/assets/img/10.jpeg"
+    "image": "/assets/img/10.jpeg"
   },
   {
     "id": 11,
     "name": "Honda Integra (DC5) Type R LCD43008-BU (Blue), 1:43",
     "price": 7000,
     "description": "LCD Models",
-    "image": "/public/assets/img/11.jpeg"
+    "image": "/assets/img/11.jpeg"
   },
   {
     "id": 12,
     "name": "Toyota TS010 ZENT 1992, 1:43",
     "price": 3000,
     "description": "44586, EBBRO",
-    "image": "/public/assets/img/12.jpeg"
+    "image": "/assets/img/12.jpeg"
   },
   {
     "id": 13,
     "name": "Lamborghini Coutach Pace Car Monaco GP 1982, 1:43",
     "price": 3300,
     "description": "W83430001 белая, Werk83",
-    "image": "/public/assets/img/13.jpeg"
+    "image": "/assets/img/13.jpeg"
   },
   {
     "id": 14,
     "name": "Lamborghini Coutach Pace Car Monaco GP 1982, 1:43",
     "price": 3300,
     "description": "W83430007 желтая, Werk83",
-    "image": "/public/assets/img/14.jpeg"
+    "image": "/assets/img/14.jpeg"
   },
   {
     "id": 15,
     "name": "Citroen Acadiane bleu Myosotis, 1:43",
     "price": 2700,
     "description": "153760, Norev",
-    "image": "/public/assets/img/15.jpeg"
+    "image": "/assets/img/15.jpeg"
   },
   {
     "id": 16,
     "name": "SUPER GT300 2014 No.30 IWASAKI, 1:43",
     "price": 3000,
     "description": "apr GT-R 45079, EBBRO",
-    "image": "/public/assets/img/16.jpeg"
+    "image": "/assets/img/16.jpeg"
   },
   {
     "id": 17,
     "name": "SUPER GT GT300 2016 No.360 RUNUP, 1:43",
     "price": 3500,
     "description": "Group Does GT-R 45403, EBBRO",
-    "image": "/public/assets/img/17.jpeg"
+    "image": "/assets/img/17.jpeg"
   },
   {
     "id": 18,
     "name": "SUPER TAKIYU 2018 No.99, 1:43",
     "price": 3000,
     "description": "Ys distraction GTNET GT-R 45684, EBBRO",
-    "image": "/public/assets/img/18.jpeg"
+    "image": "/assets/img/18.jpeg"
   },
   {
     "id": 19,
     "name": "HITOTSUYAMA RACING Audi R8 LMS 2011, 1:43",
     "price": 3500,
     "description": "44630, EBBRO",
-    "image": "/public/assets/img/19.jpeg"
+    "image": "/assets/img/19.jpeg"
   },
   {
     "id": 20,
     "name": "SUPET GT GT300 2017 GAINER TANAX No.11, 1:43",
     "price": 3500,
     "description": "AMG GT3 45541, EBBRO",
-    "image": "/public/assets/img/20.jpeg"
+    "image": "/assets/img/20.jpeg"
   },
   {
     "id": 21,
     "name": "Peugeot 306 Maxi, 1:43",
     "price": 3000,
     "description": "№2, Jaime Azcona - Jilius Billmaier Rallye de Aviles, 1997, арт. ЕS007. DeAgostini",
-    "image": "/public/assets/img/21.jpeg"
+    "image": "/assets/img/21.jpeg"
   },
   {
     "id": 22,
     "name": "FREIGHTLINER Cascadia (2016), 1:43",
     "price": 5900,
     "description": "Semi-Remorque Américains №53. Altaya",
-    "image": "/public/assets/img/22.jpg"
+    "image": "/assets/img/22.jpg"
   },
   {
     "id": 23,
     "name": "Mercedes Benz - ACTROS MP4 1851 BIGSPACE TRUCK 2016",
     "price": 5900,
     "description": "CAR TRANSPORTER TEAM HYUNDAI MOTORSPORT WRC RALLY 2019. IXO",
-    "image": "/public/assets/img/23.jpeg"
+    "image": "/assets/img/23.jpeg"
   },
   {
     "id": 24,
     "name": "Honda Civic Type R 2017, 1:43",
     "price": 3200,
     "description": "Prototype 45576, EBBRO",
-    "image": "/public/assets/img/24.jpeg"
+    "image": "/assets/img/24.jpeg"
   }
 ]
