@@ -3,6 +3,7 @@ import ArrowLight from '../assets/arrow-back.svg';
 import ArrowDark from '../assets/arrow-back-dark.svg';
 import data from '../data/models.json';
 import { useTheme } from '../hooks/useTheme';
+import { useLayoutEffect } from 'react';
 
 export const Model = () => {
   const { id } = useParams();
@@ -13,6 +14,14 @@ export const Model = () => {
 
     return model.id === modelId;
   });
+
+  useLayoutEffect(() => {
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: 'smooth',
+    });
+  }, []);
 
   return (
     <div className='flex flex-col justify-between gap-5 mt-14 mb-11 xl:max-w-[500px]'>
