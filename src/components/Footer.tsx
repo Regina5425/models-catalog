@@ -7,7 +7,7 @@ export const Footer = () => {
       <a href='https://wa.me/79625583777' target='_blank'>
         <img src={Whatsapp} alt='Whatsapp' className='inline-block rounded-[8px] w-10 h-10' />
       </a>
-      <a href='https://www.avito.ru/user/0b2821af26448af89e56e06105c73455/profile?src=sharing' target='_blank'>
+      <a href='https://www.avito.ru/user/3e46e08bbe7b3018811fe2b4d099b53d/profile?src=sharing' target='_blank'>
         <img src={Avito} alt='Avito' className='inline-block rounded-[8px] w-10 h-10' />
       </a>
     </footer>
